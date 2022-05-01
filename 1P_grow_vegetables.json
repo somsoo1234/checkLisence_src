@@ -1,0 +1,14 @@
+{
+	"version":"1.0",
+	"Array" : [
+		{
+			"ip":"2403:6200:8841:38f7:fcc9:c450:96fa:abff",
+			"host":"TEST",
+		},
+		{
+			"ip":"147.50.252.201",
+			"key":"35a1wd32as3d1ew5f132zs15f1w",
+			"host":"TEST",
+		},
+	]
+}
