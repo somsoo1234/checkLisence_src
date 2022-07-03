@@ -2,29 +2,12 @@
 	"version":"1.0",
 	"Array" : [
 		{
-			"ip":"2403:6200:8841:38f7:84be:c0dc:29f8:5f31",
-			"key":"35a1wd32as3d1ew5f132zs15f1w",
-			"host":"TEST",
-		},
-		{
-			"ip":"191.96.93.136",
-			"key":"35a1wd32as3d1ew5f132zs15f1w",
-			"host":"mOre#5899",
-		},
-		{
-			"ip":"154.202.3.28",
-			"key":"35a1wd32as3d1ew5f132zs15f1w",
-			"host":"OFGOD#9999",
-		},
-		{
 			"ip":"147.50.252.201",
-			"key":"35a1wd32as3d1ew5f132zs15f1w",
 			"host":"TEST",
 		},
 		{
-			"ip":"147.50.252.202",
-			"key":"35a1wd32as3d1ew5f132zs15f1w",
-			"host":"school base",
+			"ip":"147.50.252.224",
+			"host":"Xpboy#7774",
 		},
 	]
 }
